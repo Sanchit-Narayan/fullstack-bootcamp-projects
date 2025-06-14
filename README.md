@@ -19,11 +19,12 @@ Welcome to my collection of mini projects built while learning from **Angela Yu'
 
 ## 📁 Projects Included
 
-| No. | Project Name            | Description                                           | Tech Stack               |
+| No. | Project Name            | Description                                           | Tech Stack                |
 |-----|-------------------------|-------------------------------------------------------|---------------------------|
 | 1   | Movit Website           | Responsive site with HTML & CSS                       | HTML, CSS                 |
 | 2   | Dice Game               | Simple game to practice DOM manipulation              | HTML, CSS, JS             |
 | 3   | Drum Kit                | Interactive sound app using keypress events           | HTML, CSS, JS             |
+| 4   | Band Generator Project  | Interactive name generation app using EJS             | HTML, CSS, JS, EJS        |
 
 --- Many more to come.....
 
