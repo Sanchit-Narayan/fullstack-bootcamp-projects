@@ -24,13 +24,10 @@ Welcome to my collection of mini projects built while learning from **Angela Yu'
 | 1   | Movit Website           | Responsive site with HTML & CSS                       | HTML, CSS                 |
 | 2   | Dice Game               | Simple game to practice DOM manipulation              | HTML, CSS, JS             |
 | 3   | Drum Kit                | Interactive sound app using keypress events           | HTML, CSS, JS             |
-| 4   | Band Generator Project  | Interactive name generation app using EJS             | Frontend: HTML, CSS, JS   |
-|     |                         |                                                       | Templating Engine: EJS    |
-|     |                         |                                                       | Backend: Node.js & Express|
-| 5   | Personal Blog Website   | A dynamic blog website built using EJS templates,     | Frontend: HTML, CSS, JS
-                                  styled with CSS, and enhanced with JavaScript           Templating Engine: EJS 
-                                  for interactive UI components.                          Backend: Node.js & Express
-
+| 4   | Band Generator Project  | Interactive name generation app using EJS             | Frontend: HTML, CSS, JS <br> Templating Engine: EJS <br> Backend: Node.js & Express|
+| 5   | Personal Blog Website   | A dynamic blog website built using EJS templates,<br>styled with CSS, and enhanced with JavaScript<br>for interactive UI components.    | Frontend: HTML, CSS, JS <br> Templating Engine: EJS <br> Backend: Node.js & Express|
+                                             
+                                                            
 --- Many more to come.....
 
 ## 🛠 Tech Stack
