@@ -1,0 +1,10 @@
+<%- include("partials/header") %>
+<h1>My Blog List</h1>
+<a href="/compose">Compose New Post</a>
+<% posts.forEach(post => { %>
+  <div>
+    <h2><a href="/post/<%= post.title %>"><%= post.title %></a></h2>
+    <p><%= post.content.substring(0, 100) %>...</p>
+  </div>
+<% }); %>
+<%- include("partials/footer") %>
