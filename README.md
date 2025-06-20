@@ -27,6 +27,9 @@ Welcome to my collection of mini projects built while learning from **Angela Yu'
 | 4   | Band Generator Project  | Interactive name generation app using EJS             | Frontend: HTML, CSS, JS   |
 |     |                         |                                                       | Templating Engine: EJS    |
 |     |                         |                                                       | Backend: Node.js & Express|
+| 5   | Personal Blog Website   | A dynamic blog website built using EJS templates,     | Frontend: HTML, CSS, JS
+                                  styled with CSS, and enhanced with JavaScript           Templating Engine: EJS 
+                                  for interactive UI components.                          Backend: Node.js & Express
 
 --- Many more to come.....
 
